@@ -1,0 +1,17 @@
+h1{
+    color:white;
+    background-color: black;
+    text-align: center;
+    font-size: 48px;
+    height: 5%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#one{
+    width: 10%;
+}
+
+a.story{
+    font-size: 24px;
+    color: purple
+}
